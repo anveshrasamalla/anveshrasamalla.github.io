@@ -2,7 +2,7 @@
 
 body
 {
-font-family: 'Inconsolta', monospace;
+font-family: 'Roboto Slab', serif;
 }
 
 .name
@@ -11,10 +11,6 @@ text-align:center;
 	
 }
 
-a
-{
-	color:blue;
-}
 
 h6
 {
@@ -28,7 +24,7 @@ p{
 
 text-align:left;	
 font-size : 20px;
-padding-right: 20px;
+
 
 }
 .projects
@@ -36,16 +32,12 @@ padding-right: 20px;
 	font-size:15px;
 }
 
-.project-name{
 
-color:blue;
-
-}
 
 .tech
 {
-font-size:10px;	
-color:blue;
+font-size:12px;	
+
 }
 .resume
 {
@@ -71,20 +63,29 @@ h2
 {
 text-align:center;
 font-size:20px;
-color: Blue;
-
-
-
 }
+
 
 h3{
 
 text-align:left;
-color: blue;
-
 font-size:20px;
+font-color: black;
 }
 
+h3 a
+{
+
+color: black;
+
+}
+
+
+#Summary
+{
+	width: 75%;
+	text-align: center;
+}
 #year{
 
 text-align:left;
