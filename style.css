@@ -1,6 +1,8 @@
+
+
 body
 {
-font-family: 'Roboto Slab', serif;
+font-family: 'Inconsolta', monospace;
 }
 
 .name
@@ -9,6 +11,10 @@ text-align:center;
 	
 }
 
+a
+{
+	color:blue;
+}
 
 h6
 {
@@ -22,7 +28,7 @@ p{
 
 text-align:left;	
 font-size : 20px;
-
+padding-right: 20px;
 
 }
 .projects
@@ -30,12 +36,16 @@ font-size : 20px;
 	font-size:15px;
 }
 
+.project-name{
 
+color:blue;
+
+}
 
 .tech
 {
-font-size:12px;	
-
+font-size:10px;	
+color:blue;
 }
 .resume
 {
@@ -53,6 +63,7 @@ font-size:12px;
 {
     background-color:#67BCDB;
 }
+
 #eeeff4*/
 
 
@@ -60,29 +71,20 @@ h2
 {
 text-align:center;
 font-size:20px;
-}
+color: Blue;
 
+
+
+}
 
 h3{
 
 text-align:left;
+color: blue;
+
 font-size:20px;
-font-color: black;
 }
 
-h3 a
-{
-
-color: black;
-
-}
-
-
-#Summary
-{
-	width: 75%;
-	text-align: center;
-}
 #year{
 
 text-align:left;
